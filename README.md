@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Welcome to Yak App, Yak meaning chat app a platform for developers to share their tech stacks for development...
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
