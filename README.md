@@ -3,7 +3,12 @@
 ![yakApp](https://user-images.githubusercontent.com/43039787/127058973-2e0b3dfd-4ce6-4173-b375-a4ef3c5b1835.JPG)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A sideBar with active users, Pics and an option to delete the Yak Group (Chat Group)
+![users](https://user-images.githubusercontent.com/43039787/127059233-f3bbada7-f0ee-4521-b7c2-be2759c87d7a.JPG)
+
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), JavaScript, Axios for backend, Chat-Engine and Ant-Design Icons
 
 ## Available Scripts
 
