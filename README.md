@@ -1,5 +1,6 @@
 # Welcome to Yak App, Yak meaning chat app a platform for developers to share their tech stacks for development...
 
+![yakApp](https://user-images.githubusercontent.com/43039787/127058973-2e0b3dfd-4ce6-4173-b375-a4ef3c5b1835.JPG)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
